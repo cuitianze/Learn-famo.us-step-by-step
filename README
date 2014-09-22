@@ -1,1 +1,14 @@
-Integrate Sass, Jade, CoffeeScript and Famo.us using Gulp.js and Browserify.
+- famous的一些理念，还是前卫得难以理解。为什么将很多HTML，CSS都放入JS呢，这是不是与“MVC”所违背，继续去学习吧。
+- https://famo.us/integrations/angular/  famous 与 angular 相结合
+- Build highly interactive, data-driven, and modular web applications with the combined strengths of Famo.us and AngularJS.
+- Famo.us so Far : Field Guide for April 2014
+- http://wayfinder.co/pathways/53590e64ed05bf290026366f/famo-us-so-far-field-guide-for-april-2014
+
+- Create high-performance mobile UIs with Famo.us
+- http://www.ibm.com/developerworks/web/library/wa-famous/index.html
+
+- Famo.us polaroid tutorial in CoffeeScript and within Meteor
+- http://pem-musing.blogspot.jp/2014/05/famous-polaroid-tutorial-in.html?utm_content=buffer98b88&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer
+
+- Famo.us with Gulp.js and Browerify in CoffeeScript
+- http://pem-musing.blogspot.jp/2014/04/famous-with-gulpjs-and-browerify-in.html
